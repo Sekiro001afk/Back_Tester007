@@ -1,0 +1,22 @@
+Environments / caches
+.venv/
+backtest-env/
+pycache/
+*.pyc
+
+Generated data / outputs
+raw_data.csv
+result.csv
+output/
+*.csv
+
+Models / artifacts
+models/
+*.pkl
+*.joblib
+
+OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.env
