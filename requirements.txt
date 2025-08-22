@@ -1,0 +1,8 @@
+pandas
+numpy
+yfinance
+talib-binary
+scikit-learn
+xgboost
+joblib
+python-dateutil
